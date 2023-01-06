@@ -4,42 +4,42 @@ export const productInitialState = {
   products: [
     {
       id: 1,
-      name: "Producto 1",
+      name: "Product 1",
       price: 20,
     },
     {
       id: 2,
-      name: "Producto 2",
+      name: "Product 2",
       price: 10,
     },
     {
       id: 3,
-      name: "Producto 3",
+      name: "Product 3",
       price: 15,
     },
     {
       id: 4,
-      name: "Producto 4",
+      name: "Product 4",
       price: 25,
     },
     {
       id: 5,
-      name: "Producto 5",
+      name: "Product 5",
       price: 100,
     },
     {
       id: 6,
-      name: "Producto 6",
+      name: "Product 6",
       price: 50,
     },
     {
       id: 7,
-      name: "Producto 7",
+      name: "Product 7",
       price: 55,
     },
     {
       id: 8,
-      name: "Producto 8",
+      name: "Product 8",
       price: 5,
     },
   ],
